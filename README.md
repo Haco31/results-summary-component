@@ -14,7 +14,7 @@ The goal of this project was to build a results summary UI component using HTML 
 ## 🔗 Links
 
 * 💻 **Solution URL:** https://github.com/Haco31/TU-REPOSITORIO
-* 🌐 **Live Site URL:** https://Haco31.github.io/TU-REPOSITORIO/
+* 🌐 **Live Site URL:** https://haco31.github.io/results-summary-component/
 
 ---
 
