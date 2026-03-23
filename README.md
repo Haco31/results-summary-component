@@ -7,7 +7,7 @@ The goal of this project was to build a results summary UI component using HTML 
 
 ## 📸 Screenshot
 
-![Project Screenshot](./results-summary-component-main/design/screenshot.png)
+![Project Screenshot](./results-summary-component-main/design/screenshot.PNG)
 
 ---
 
